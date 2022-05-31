@@ -1,3 +1,5 @@
+![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
+
 # Manufacturing Vision Accelerator for AMD64 architectures
 Welcome to the Manufacuring Vision Accelerator repo - we hope what you find here may be helpful to your pursuit of vision analytics on the Edge! The main portion of this code and process flow was created by myself and Nick Kwiecien, Ph.D., but there are a great number of tehnical collaborators as well on this AIoT journey, including Rick Durham (Azure AI/ML) and Keith Hill, Azure PM.  
 
