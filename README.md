@@ -13,7 +13,7 @@ This is a sample repository of working code - nothing more, nothing less.  There
 [Demo Walkthrough Video](/video/Demo_Walkthrough.mp4)
 
 
-[Solution Accelerator Overview Video](/video/Solution_Accelerator_Overview.mp4)
+[Accelerator Overview Video](/video/Solution_Accelerator_Overview.mp4)
 
 
 [Azure Resource Setup Video](/video/Azure_Setup_Walkthrough.mp4)
